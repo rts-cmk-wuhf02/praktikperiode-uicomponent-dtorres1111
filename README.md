@@ -38,5 +38,5 @@ Du skal downloade XD filen herfra: https://bit.ly/2Xkqsbm
 ## Aflevering
 Aflevering torsdag d. 4 Juni.<br>
 Du har afleveret når din applikation er hostet på github pages og linket hertil er sat ind herunder.<br><br>
-https://dopeuicomponent.netlify.app Skriv din github pages adresse her!!!
+https://dopeuicomponent.netlify.app Skriv din github pages adresse her!!! https://github.com/rts-cmk-wuhf02/praktikperiode-uicomponent-dtorres1111
 
